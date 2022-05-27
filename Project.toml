@@ -1,0 +1,9 @@
+name = "Vmap"
+uuid = "c1bc65fa-af5a-4d9b-91fa-7462289378fa"
+authors = ["marius <mariusmillea@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Cassette = "7057c7e9-c182-5462-911a-8362d720325c"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
